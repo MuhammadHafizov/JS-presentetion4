@@ -21,8 +21,7 @@
 # JavaScript String method replace()
 + ## The replace() method returns a new string with the value(s) replaced.
 # JavaScript String method replaceAll()
-+ ## The replaceAll() method returns a new string with all matches of a pattern replaced by
-a replacement.
++ ## The replaceAll() method returns a new string with all matches of a pattern replaced by a replacement.
 # JavaScript String method split()
 + ## The split() method splits a string into an array of substrings
 # JavaScript String method substring(start,end)
