@@ -1,5 +1,5 @@
 # JS-presentetion
-![](https://th.bing.com/th/id/OIP.ILawkfZgLKYrJnzueFOfcwHaEK?rs=1&pid=ImgDetMain)
+![](https://www.tutorialstonight.com/assets/js/javascript-string-methods.png)
 * # We have 2 Table of Contents
 * ## 1.STRING
 * ## 2.NUMBER
@@ -37,4 +37,4 @@
 # JavaScript String method includes()
 + ## The includes() method returns true if a string contains a specified string.
 # THANKYOU FOR YOUR WATCHING
-![](https://th.bing.com/th/id/OIP.NuEDkv_6ccWsc9ZQT9WLhAHaDt?rs=1&pid=ImgDetMain)
+![](https://th.bing.com/th/id/R.c6c690d1b976dafa4797009c5fb99caa?rik=%2bfb3Xg%2faO8Awwg&riu=http%3a%2f%2flostnationtheater.org%2fclient_media%2fimages%2fThankyou-Featured-Image.jpg&ehk=XMHWjcaNhRdYVUJQ6t3DaMnCT9FeHuc2H7HbLOZsF7M%3d&risl=&pid=ImgRaw&r=0)
